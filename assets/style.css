@@ -13,7 +13,6 @@ body {
     height: 100vh;
     display: flex;
     justify-content: center;
-    /* align-items: center; */
 }
 
 .card {
@@ -21,7 +20,7 @@ body {
 }
 
 .about-me-section {
-    background-color: #a6a6a6;
+    background-color: #dce1db;
     color: white;
     padding: 7%;
 }
@@ -57,7 +56,6 @@ body {
 .btn-custom {
     background-color: #343a40;
     color: white;
-    padding: 10px 20px;
     border-radius: 5px;
     transition: transform 0.3s ease-in-out;
     padding: 10px 52px;
@@ -67,37 +65,4 @@ body {
     transform: scale(1.05);
     background-color: #212529;
     color: white;
-}
-
-
-.work-section {
-    padding: 50px 0;
-    background-color: #f0f9f6;
-    text-align: center;
-}
-
-.work-title {
-    font-size: 3rem;
-    font-weight: bold;
-    margin-bottom: 20px;
-}
-
-.portfolio-item {
-    margin-bottom: 20px;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-    border-radius: 5px;
-    overflow: hidden;
-}
-
-.portfolio-item img {
-    width: 100%;
-    height: auto;
-    border-bottom: 2px solid #e0e0e0;
-}
-
-.portfolio-caption {
-    padding: 15px;
-    font-size: 1rem;
-    font-weight: 500;
-    color: #555;
 }
