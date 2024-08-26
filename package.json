@@ -1,0 +1,23 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AyaFikry33/Portfolio.git"
+  },
+  "author": "Aya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AyaFikry33/Portfolio/issues"
+  },
+  "homepage": "https://github.com/AyaFikry33/Portfolio#readme",
+  "dependencies": {
+    "bootstrap": "^5.3.3",
+    "bootstrap-icons": "^1.11.3"
+  }
+}
